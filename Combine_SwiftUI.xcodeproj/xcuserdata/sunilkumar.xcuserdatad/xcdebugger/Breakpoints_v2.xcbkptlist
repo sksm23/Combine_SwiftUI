@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6C6F89A2-CCE2-4484-9522-7C266806F225"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4EA4B176-3148-4548-B97D-D46EE0F80C7B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Combine_SwiftUI/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getCountries()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4EA4B176-3148-4548-B97D-D46EE0F80C7B - b594bd35c21a67b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine_SwiftUI.Response) -&gt; () in Combine_SwiftUI.ViewModel.getCountries() -&gt; ()"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  uuid = "4EA4B176-3148-4548-B97D-D46EE0F80C7B - b594bd35c21a67b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine_SwiftUI.Response) -&gt; () in Combine_SwiftUI.ViewModel.getCountries() -&gt; ()"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "73">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8786A84B-4E5C-49E5-A568-DBB25B0A7D84"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Combine_SwiftUI/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "updateSelection(with:option:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8786A84B-4E5C-49E5-A568-DBB25B0A7D84 - f4cb73b6c92f18b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1829">
+               </Location>
+               <Location
+                  uuid = "8786A84B-4E5C-49E5-A568-DBB25B0A7D84 - f4cb73b6c92f18b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1986">
+               </Location>
+               <Location
+                  uuid = "8786A84B-4E5C-49E5-A568-DBB25B0A7D84 - f4cb73b6c92f18b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1709">
+               </Location>
+               <Location
+                  uuid = "8786A84B-4E5C-49E5-A568-DBB25B0A7D84 - f4cb73b6c92f18b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1705">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C196F04-D900-4E45-B286-63B46DFB80E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Combine_SwiftUI/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "updateSelection(with:option:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7C196F04-D900-4E45-B286-63B46DFB80E4 - f4cb73b6c92f181c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "2102">
+               </Location>
+               <Location
+                  uuid = "7C196F04-D900-4E45-B286-63B46DFB80E4 - f4cb73b6c92f181c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "2259">
+               </Location>
+               <Location
+                  uuid = "7C196F04-D900-4E45-B286-63B46DFB80E4 - f4cb73b6c92f181c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1982">
+               </Location>
+               <Location
+                  uuid = "7C196F04-D900-4E45-B286-63B46DFB80E4 - f4cb73b6c92f181c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1978">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AEF0FB02-FBC2-4259-8940-6B04841298D0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Combine_SwiftUI/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "updateSelection(with:option:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AEF0FB02-FBC2-4259-8940-6B04841298D0 - f4cb73b6c92f19c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "1351">
+               </Location>
+               <Location
+                  uuid = "AEF0FB02-FBC2-4259-8940-6B04841298D0 - f4cb73b6c92f19c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "1297">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "929C67A1-AB80-410F-AE7B-34CBE50B9876"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Combine_SwiftUI/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "updateSelection(with:option:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "929C67A1-AB80-410F-AE7B-34CBE50B9876 - f4cb73b6c92f1b14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "4893">
+               </Location>
+               <Location
+                  uuid = "929C67A1-AB80-410F-AE7B-34CBE50B9876 - f4cb73b6c92f1b14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "5050">
+               </Location>
+               <Location
+                  uuid = "929C67A1-AB80-410F-AE7B-34CBE50B9876 - f4cb73b6c92f1b14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "4773">
+               </Location>
+               <Location
+                  uuid = "929C67A1-AB80-410F-AE7B-34CBE50B9876 - f4cb73b6c92f1b14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "4769">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F281FC4-DD61-40A2-9311-36AED40F6A1F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Combine_SwiftUI/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "updateSelection(with:option:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6F281FC4-DD61-40A2-9311-36AED40F6A1F - f4cb73b6c92f1b90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "4425">
+               </Location>
+               <Location
+                  uuid = "6F281FC4-DD61-40A2-9311-36AED40F6A1F - f4cb73b6c92f1b90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "4582">
+               </Location>
+               <Location
+                  uuid = "6F281FC4-DD61-40A2-9311-36AED40F6A1F - f4cb73b6c92f1b90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "4305">
+               </Location>
+               <Location
+                  uuid = "6F281FC4-DD61-40A2-9311-36AED40F6A1F - f4cb73b6c92f1b90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "4301">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5D0C74D-1998-4507-9405-172F2504925C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Combine_SwiftUI/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "updateSelection(with:option:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B5D0C74D-1998-4507-9405-172F2504925C - f4cb73b6c92f195a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "1652">
+               </Location>
+               <Location
+                  uuid = "B5D0C74D-1998-4507-9405-172F2504925C - f4cb73b6c92f195a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "1765">
+               </Location>
+               <Location
+                  uuid = "B5D0C74D-1998-4507-9405-172F2504925C - f4cb73b6c92f195a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "1546">
+               </Location>
+               <Location
+                  uuid = "B5D0C74D-1998-4507-9405-172F2504925C - f4cb73b6c92f195a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "1542">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8B75732-A77E-4A97-9E98-A31EA91FFA35"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Combine_SwiftUI/ViewModel/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "updateSelection(with:option:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F8B75732-A77E-4A97-9E98-A31EA91FFA35 - f4cb73b6c92f1a88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "5070">
+               </Location>
+               <Location
+                  uuid = "F8B75732-A77E-4A97-9E98-A31EA91FFA35 - f4cb73b6c92f1a88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "5227">
+               </Location>
+               <Location
+                  uuid = "F8B75732-A77E-4A97-9E98-A31EA91FFA35 - f4cb73b6c92f1a88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "4950">
+               </Location>
+               <Location
+                  uuid = "F8B75732-A77E-4A97-9E98-A31EA91FFA35 - f4cb73b6c92f1a88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_SwiftUI.ViewModel.updateSelection(with: Combine_SwiftUI.Facility, option: Combine_SwiftUI.Option) -&gt; Swift.Bool"
+                  moduleName = "Combine_SwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunilkumar/Desktop/Combine_SwiftUI/Combine_SwiftUI/ViewModel/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "4946">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
